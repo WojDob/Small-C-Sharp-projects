@@ -1,0 +1,12 @@
+C:\Users\wojci\source\repos\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\wojci\source\repos\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\wojci\source\repos\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.Properties.Resources.resources
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.csproj.GenerateResource.cache
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.pdb
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.MainForm.resources
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.TableForm.resources
+C:\Users\wojci\source\repos\Histogram\Histogram\obj\Debug\Histogram.ChartForm.resources
