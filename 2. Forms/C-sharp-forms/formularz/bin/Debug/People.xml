@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+  <person>
+    <name>Michael</name>
+    <surname>Jackson</surname>
+    <dateOfBirth>2000</dateOfBirth>
+    <height>189</height>
+    <isMale>true</isMale>
+    <position>Prezes</position>
+    <salary>1690</salary>
+  </person>
+  <person>
+    <name>Jack</name>
+    <surname>Black</surname>
+    <dateOfBirth>1777</dateOfBirth>
+    <height>175</height>
+    <isMale>true</isMale>
+    <position>Pracownik szeregowy</position>
+    <salary>0</salary>
+  </person>
+  <person>
+    <name>Emma</name>
+    <surname>Stone</surname>
+    <dateOfBirth>1990</dateOfBirth>
+    <height>162</height>
+    <isMale>false</isMale>
+    <position>Stażysta</position>
+    <salary>100</salary>
+  </person>
+  <person>
+    <name>Ryan</name>
+    <surname>Gosling</surname>
+    <dateOfBirth>2001</dateOfBirth>
+    <height>190</height>
+    <isMale>true</isMale>
+    <position>Manager</position>
+    <salary>2000</salary>
+  </person>
+  <person>
+    <name>Sandra</name>
+    <surname>Bullock</surname>
+    <dateOfBirth>1990</dateOfBirth>
+    <height>188</height>
+    <isMale>false</isMale>
+    <position>Stażysta</position>
+    <salary>122000</salary>
+  </person>
+  <person>
+    <name>Nicolas</name>
+    <surname>Cage</surname>
+    <dateOfBirth>1960</dateOfBirth>
+    <height>199</height>
+    <isMale>true</isMale>
+    <position>Manager</position>
+    <salary>122222</salary>
+  </person>
+</people>
