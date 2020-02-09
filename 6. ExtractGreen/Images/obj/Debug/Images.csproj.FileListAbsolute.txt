@@ -1,0 +1,10 @@
+C:\Users\wojci\source\repos\Images\Images\bin\Debug\Images.exe.config
+C:\Users\wojci\source\repos\Images\Images\bin\Debug\Images.exe
+C:\Users\wojci\source\repos\Images\Images\bin\Debug\Images.pdb
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.Form1.resources
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.Properties.Resources.resources
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.csproj.GenerateResource.cache
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.exe
+C:\Users\wojci\source\repos\Images\Images\obj\Debug\Images.pdb

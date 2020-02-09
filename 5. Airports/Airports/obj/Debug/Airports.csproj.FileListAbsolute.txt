@@ -1,0 +1,11 @@
+C:\Users\wojci\source\repos\Airports\Airports\bin\Debug\Airports.exe.config
+C:\Users\wojci\source\repos\Airports\Airports\bin\Debug\Airports.exe
+C:\Users\wojci\source\repos\Airports\Airports\bin\Debug\Airports.pdb
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.Form1.resources
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.Form2.resources
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.Properties.Resources.resources
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.csproj.GenerateResource.cache
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.exe
+C:\Users\wojci\source\repos\Airports\Airports\obj\Debug\Airports.pdb
