@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<monitors>
+  <monitor>
+    <price>1200</price>
+    <diameter>29</diameter>
+    <brand>HP</brand>
+  </monitor>
+  <monitor>
+    <price>500</price>
+    <diameter>25</diameter>
+    <brand>LG</brand>
+  </monitor>
+  <monitor>
+    <price>800</price>
+    <diameter>45</diameter>
+    <brand>LG</brand>
+  </monitor>
+  <monitor>
+    <price>200</price>
+    <diameter>29</diameter>
+    <brand>Samsung</brand>
+  </monitor>
+  <monitor>
+    <price>749</price>
+    <diameter>32</diameter>
+    <brand>ASUS</brand>
+  </monitor>
+</monitors>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<monitors>
+  <processor>
+    <price>499</price>
+    <brand>NVIDIA</brand>
+  </processor>
+  <processor>
+    <price>299</price>
+    <brand>Intel</brand>
+  </processor>
+  <processor>
+    <price>700</price>
+    <brand>AMD</brand>
+  </processor>
+</monitors>

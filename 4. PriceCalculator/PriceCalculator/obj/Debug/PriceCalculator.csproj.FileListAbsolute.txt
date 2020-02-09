@@ -1,0 +1,14 @@
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\bin\Debug\PriceCalculator.exe.config
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\bin\Debug\PriceCalculator.exe
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\bin\Debug\PriceCalculator.pdb
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.csprojAssemblyReference.cache
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.Properties.Resources.resources
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.csproj.GenerateResource.cache
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.exe
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.pdb
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.ChooseComputerForm.resources
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.MainMenuForm.resources
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.ChooseMonitorForm.resources
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.EditMonitorsForm.resources
+C:\Users\wojci\Source\Repos\PriceCalculator\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.EditProcessorsForm.resources
